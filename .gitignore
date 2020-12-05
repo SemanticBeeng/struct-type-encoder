@@ -1,2 +1,6 @@
 target/
 metastore_db/
+.bsp/
+project/.boot/
+project/.sbtboot/
+
